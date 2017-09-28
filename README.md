@@ -1,1 +1,3 @@
-# oreo_vendor_camon_c7
+# TECNO CAMON C7
+vendor
+Mt6735 (64)
