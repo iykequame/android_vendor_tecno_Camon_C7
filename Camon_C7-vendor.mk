@@ -13,4 +13,4 @@
 # limitations under the License.
 
 # Proprietary dependencies go here
-$(call inherit-product, vendor/tecno/Camon_C7/a610-vendor-blobs.mk)
+$(call inherit-product, vendor/tecno/Camon_C7/Camon_C7-vendor-blobs.mk)
