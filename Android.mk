@@ -36,7 +36,7 @@ LOCAL_MODULE_SUFFIX := .so
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := libdpframework
+LOCAL_MODULE := libaudiocustparam  
 LOCAL_MODULE_OWNER := MediaTek
 LOCAL_SRC_FILES_64 := proprietary/lib64/libaudiocustparam.so
 LOCAL_SRC_FILES_32 := proprietary/lib/libaudiocustparam.so
